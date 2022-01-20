@@ -1,0 +1,9 @@
+name: null
+channels:
+  - defaults
+dependencies:
+  - python=3.9
+  - numpy
+  - jupyterlab
+  - pandas
+prefix: /Users/wangshengbin/opt/miniconda3/envs/comp30830
