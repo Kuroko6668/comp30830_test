@@ -6,4 +6,4 @@ dependencies:
   - numpy
   - jupyterlab
   - pandas
-prefix: /Users/wangshengbin/opt/miniconda3/envs/comp30830
+prefix: /home/ubuntu/miniconda3
