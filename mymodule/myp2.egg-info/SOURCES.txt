@@ -1,0 +1,7 @@
+setup.py
+myp2/__init__.py
+myp2/__main__.py
+myp2.egg-info/PKG-INFO
+myp2.egg-info/SOURCES.txt
+myp2.egg-info/dependency_links.txt
+myp2.egg-info/top_level.txt
